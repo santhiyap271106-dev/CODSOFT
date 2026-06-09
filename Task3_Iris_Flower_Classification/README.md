@@ -1,5 +1,26 @@
 # Iris Flower Classification
 
-This project is part of my CodSoft Data Science Internship.
+## Objective
+Build a Machine Learning model to classify Iris flowers into:
+- Setosa
+- Versicolor
+- Virginica
 
-Status: Completed ✅
+## Dataset
+Iris Dataset (150 samples)
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Algorithm
+Random Forest Classifier
+
+## Results
+- Accuracy: 100%
+- Successfully classified all flower species
+
+## Internship
+CodSoft Data Science Internship
